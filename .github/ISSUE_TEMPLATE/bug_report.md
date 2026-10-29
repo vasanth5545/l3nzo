@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve L3NZO StudioPro
+about: Create a report to help us improve L3NZO.
 title: '[BUG] '
 labels: bug
 assignees: vasanth5545

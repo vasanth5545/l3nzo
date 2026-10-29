@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea or enhancement for L3NZO StudioPro
+about: Suggest an idea or enhancement for L3NZO.
 title: '[FEATURE] '
 labels: enhancement
 assignees: vasanth5545
