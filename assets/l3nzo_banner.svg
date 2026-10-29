@@ -91,19 +91,27 @@
   <!-- Feature Pills -->
   <g transform="translate(154, 180)">
     <!-- Pill 1 -->
-    <rect x="0" y="0" width="130" height="28" rx="14" fill="#1E293B" stroke="#334155" stroke-width="1"/>
-    <text x="14" y="18" class="badge-txt" fill="#38BDF8">⚡ 50ms RTDB SYNC</text>
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="140" height="28" rx="14" fill="#0C2340" stroke="#0284C7" stroke-width="1.2"/>
+      <text x="14" y="18" class="badge-txt" fill="#38BDF8">⚡ 50ms RTDB SYNC</text>
+    </g>
 
     <!-- Pill 2 -->
-    <rect x="140" y="0" width="145" height="28" rx="14" fill="#1E293B" stroke="#334155" stroke-width="1"/>
-    <text x="14" y="18" class="badge-txt" fill="#818CF8">🔒 ZERO-LEAK SQLITE</text>
+    <g transform="translate(150, 0)">
+      <rect x="0" y="0" width="160" height="28" rx="14" fill="#1E1B4B" stroke="#6366F1" stroke-width="1.2"/>
+      <text x="14" y="18" class="badge-txt" fill="#A5B4FC">🔒 ZERO-LEAK SQLITE</text>
+    </g>
 
     <!-- Pill 3 -->
-    <rect x="295" y="0" width="155" height="28" rx="14" fill="#1E293B" stroke="#334155" stroke-width="1"/>
-    <text x="14" y="18" class="badge-txt" fill="#34D399">📁 1-CLICK AUTO-SORT</text>
+    <g transform="translate(320, 0)">
+      <rect x="0" y="0" width="165" height="28" rx="14" fill="#064E3B" stroke="#059669" stroke-width="1.2"/>
+      <text x="14" y="18" class="badge-txt" fill="#34D399">📁 1-CLICK AUTO-SORT</text>
+    </g>
 
     <!-- Pill 4 -->
-    <rect x="460" y="0" width="170" height="28" rx="14" fill="#312E81" stroke="#4F46E5" stroke-width="1"/>
-    <text x="14" y="18" class="badge-txt" fill="#C7D2FE">🏛️ GOVT MSME CERTIFIED</text>
+    <g transform="translate(495, 0)">
+      <rect x="0" y="0" width="195" height="28" rx="14" fill="#1E293B" stroke="#475569" stroke-width="1.2"/>
+      <text x="14" y="18" class="badge-txt" fill="#E2E8F0">🏛️ GOVT MSME CERTIFIED</text>
+    </g>
   </g>
 </svg>

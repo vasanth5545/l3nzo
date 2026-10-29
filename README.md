@@ -13,9 +13,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/vasanth5545/l3nzo/releases/latest">
-      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_L3NZO.-v1.0.0_Setup-6366F1?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows Setup" />
-    </a>
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Windows_Setup-Coming_Soon_(Private_Beta)-6366F1?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Setup Coming Soon" />
     <a href="https://l3nzo.web.app">
       <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Web_Portal-l3nzo.web.app-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Web App" />
     </a>
